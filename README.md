@@ -32,7 +32,7 @@
 
 ### 💬 Get in Touch With Me!
 <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/muhammad-humam-zaky-139369170/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/mh-zakkk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--
 **muhamaz/muhamaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
