@@ -1,8 +1,7 @@
-### Hi there 👋 
+<h1 align="center">Hi 👋, I'm Muhammad Humam Zaky </h1>
 
-- I'm Muhammad Humam Zaky
-- You can call me Zaky
-- 🌱 I’m currently learning about automation program using Java programming language
+<p>Passionate about bulding and testing application with Java programming language using Selenium, and Rest Assured</p>
+
 
 <br/>
 <div align="center">
