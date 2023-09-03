@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Humam Zaky </h1>
 
-<p align="center">Passionate about bulding and testing application with Java programming language using Selenium, and Rest Assured</p>
+<p align="center">Passionate about developing and testing applications with Java programming language using Selenium and Rest Assured</p>
 
 
 <br/>
