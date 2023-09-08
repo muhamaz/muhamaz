@@ -17,11 +17,6 @@
 ![Rest Assured](https://img.shields.io/badge/-RestAssured-181717?style=for-the-badge&logo=restassured)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
-![C++](https://img.shields.io/badge/C%2B%2B-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-181717?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-181717?style=for-the-badge&logo=css3)
-![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-gitlab-181717?style=for-the-badge&logo=gitlab)
@@ -36,6 +31,11 @@
 **muhamaz/muhamaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/C%2B%2B-181717?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-181717?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-181717?style=for-the-badge&logo=css3)
+![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
